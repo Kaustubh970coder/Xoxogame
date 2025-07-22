@@ -1,4 +1,4 @@
-# Xoxogame
+#xoxogame
 Free game for cure booredom 
 <!DOCTYPE html>
 <html lang="en">
